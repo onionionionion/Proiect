@@ -1,14 +1,16 @@
-# ProjectHE5.0 -- Liceu
-Team: Z for Future
+# aplicatie
 
-Highschool: Colegiul National "Constantin Carabella"
+A new Flutter project.
 
-Tehnology: Flutter
+## Getting Started
 
-Language: English
+This project is a starting point for a Flutter application.
 
-APK-ul se afla intr-un zip deoarece fisierul era prea mare
+A few resources to get you started if this is your first Flutter project:
 
-Link pentru pitch: https://www.youtube.com/watch?v=01X6wjiN12Y
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Link pentru demo: https://www.youtube.com/watch?v=Xc5hQ3oiciw&t=40s
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
