@@ -4,7 +4,7 @@ Team: Z for Future
 
 Highschool: Colegiul National "Constantin Carabella" , Targoviste
 
-Tehnology: Flutter
+Technology: Flutter
 
 Language: English
 
