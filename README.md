@@ -1,16 +1,15 @@
-# aplicatie
+# Aplicatie
 
-A new Flutter project.
+Team: Z for Future
 
-## Getting Started
+Highschool: Colegiul National "Constantin Carabella" , Targoviste
 
-This project is a starting point for a Flutter application.
+Tehnology: Flutter
 
-A few resources to get you started if this is your first Flutter project:
+Language: English
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Am zipat APKul deoarece era prea mare
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link pentru demo: https://www.youtube.com/watch?v=Xc5hQ3oiciw&t=40s
+
+Link pentru pitch: https://www.youtube.com/watch?v=01X6wjiN12Y&t=4s
